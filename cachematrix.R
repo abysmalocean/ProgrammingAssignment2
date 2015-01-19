@@ -2,6 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
+## This is created by Liang Xu
+## test commit by Liang XU
 
 makeCacheMatrix <- function(x = matrix()) {
 
